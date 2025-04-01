@@ -134,6 +134,8 @@ body {
     background-image: url("https://cdn2.unrealengine.com/spring-sale-desktop-carousel-asset-c952cce62e36.avif");
     padding: 30px;
     height: 360px;
+    background-size: cover;
+    border-radius: 4px;
 }
 
 .spring-sale-banner h1 {
